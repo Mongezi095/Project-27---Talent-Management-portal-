@@ -1,0 +1,33 @@
+# The Program
+
+The Program is a web portal designed to help Grade 12 learners manage their academic progress and prepare for opportunities after school. It brings their marks, goals, university applications, funding applications, documents, deadlines and next steps into one organised place.
+
+The portal is for learners and their parents or guardians, as well as The Program’s team, which manages and supports each learner. The learners we support are referred to as *talent* within the system.
+
+## What talent will be able to do
+
+Each learner will have their own portal where they can:
+
+* View their academic results, subject trends and goals.
+* See how their marks compare with the published requirements of programmes they are interested in.
+* Track university and funding applications from preparation through submission and follow-up.
+* View required documents, identify what is missing and keep track of what has been completed.
+* See upcoming deadlines, assigned tasks and reminders.
+* Browse a dedicated **Opportunities** tab containing relevant university programmes, bursaries and other verified opportunities.
+* Follow a clear plan showing what they need to do next.
+
+Parents or guardians will receive progress updates according to the permissions and information-sharing arrangements agreed with the learner.
+
+## What administrators will be able to do
+
+The Program’s administrators will use a separate, access-controlled portal to manage the talent assigned to them. They will be able to maintain learner records, review academic progress, check application and funding statuses, assign tasks, monitor deadlines, verify opportunity information and prepare progress reports. The administrator portal will also help the team see which learners need attention and which actions are overdue.
+
+## Why a web portal?
+
+WhatsApp and other messaging apps are useful for conversations, but important information can become scattered across chats, attachments and voice notes. A deadline may be mentioned in one message, while its documents and confirmation are stored somewhere else.
+
+The portal gives each learner and administrator one place to find the current plan and its supporting information. Tasks have owners and due dates. Applications have visible statuses. Documents and submission confirmations can be linked to the relevant application. Opportunities can be listed with their requirements, deadlines and official sources. Messages can still be used when helpful, but the portal serves as the organised record of what needs to happen and what has been done.
+
+## Development purpose
+
+This repository contains the development of The Program’s web portal. The project will be built in stages, beginning with the core workflows needed for a small pilot. It is also a practical opportunity to apply the software development life cycle: gathering requirements, designing the system, implementing features, testing them, gathering feedback and improving the product before expanding it.
